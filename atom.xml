@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="https://deserved99.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://deserved99.github.io/"/>
+  <updated>2020-11-24T02:38:42.417Z</updated>
+  <id>https://deserved99.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HTML入门笔记</title>
+    <link href="https://deserved99.github.io/archives/undefined.html"/>
+    <id>https://deserved99.github.io/archives/undefined.html</id>
+    <published>2018-11-23T13:07:15.000Z</published>
+    <updated>2020-11-24T02:38:42.417Z</updated>
+    
+    
+    
+    
+    <category term="前端" scheme="https://deserved99.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="HTML" scheme="https://deserved99.github.io/categories/%E5%89%8D%E7%AB%AF/HTML/"/>
+    
+    
+    <category term="HTML" scheme="https://deserved99.github.io/tags/HTML/"/>
+    
+    <category term="前端" scheme="https://deserved99.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+</feed>
